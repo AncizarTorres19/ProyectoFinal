@@ -1,0 +1,132 @@
+body {
+  /* background: url(); */
+  background: url(https://img.freepik.com/vector-gratis/composicion-fondo-degradado-suave-borrosa-moderna-azul-claro_1053-1199.jpg?size=626&ext=jpg);
+  background-size: 100%;
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+/* 
+Header h2 {
+  font-size: 25px;
+  margin: 0;
+  color: rgb(0, 0, 0);
+  margin-left: 13px;
+  margin: 0;
+}
+
+
+
+.men {
+  position: relative;
+  float: right;
+  width: 200px;
+  height: 150px;
+  margin: 0px;
+  padding: 0px;
+  top: 0px;
+  bottom: 100px;
+  
+}
+
+
+
+.img-buscador{
+  object-fit: contain;
+  background-position: center;
+  position: relative;
+  top: 30px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 450px;
+  height: 350px;
+}
+
+.img-canasta{
+  
+  object-fit: contain;
+  background-position: center;
+  position: relative;
+  top: 30px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 250px;
+  height: 150px;
+}
+
+h1, h2  {
+  color: rgb(0, 0, 0);
+  padding: 3rem 0;
+  text-align: center;
+
+  text-transform: uppercase;
+
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+
+label {
+  color: white;
+}
+
+
+
+.alerta-error {
+  background-color: white;
+  color: red;
+  padding: 1rem;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-family:  'Staatliches', cursive;
+} 
+.legs p {
+  font-weight: bold;
+  margin-bottom: .8rem;
+}
+.legs p span {
+  font-weight: normal;
+
+}
+
+.u-full-width{
+  color: red;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  
+}
+
+
+h2  {
+  color: black;
+  padding: 3rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+
+label {
+  color:black;
+  width: 190px;
+  height: 40px;
+  right: 30px;
+  left: 30px;
+
+}
+
+.alerta-error {
+  background-color: black;
+  color:white;
+  padding: 1rem;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+} */
+ 
